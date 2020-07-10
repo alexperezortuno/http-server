@@ -7,9 +7,11 @@ $ python main.py
 ```
 
 ### Optional arguments
---dir
---port
---secure
+--dir=/ # absolute path
+
+--port=8080
+
+--secure=yes
 
 ### How to create a self-signed PEM file
 ```
